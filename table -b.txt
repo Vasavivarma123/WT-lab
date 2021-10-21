@@ -1,0 +1,36 @@
+<html>
+<body>
+<marquee direction="right" bgcolor="pink" 
+<table border=1 
+       width=70%
+       height=80%
+       align="right"
+       cell spacing="20px"
+       cell padding="30px" >
+<tr>
+<th> serial no</th>
+<th> name </th>
+<th> specialization </th>
+</tr>
+<tr>
+<th>1 </th>
+<th> devi priya </th>
+<th> cse </th>
+</tr>
+<tr>
+<th> 2</th>
+<th> vijay kumar</th>
+<th> it </th>
+</tr>
+<tr>
+<th> 3 </th>
+<th> swathi </th>
+<th> ece </th>
+</tr>
+</body>
+</html>
+
+
+
+
+
